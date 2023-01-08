@@ -96,3 +96,9 @@
             </div>
           </div>
         </nav>
+
+<!-- enler başlık ekledim -->
+
+        <h2 style="color:black;font-size: 30pt;text-align: center;margin-top: 50px;margin-bottom: 30px;"> bu sayfada enleri inceleyelim. en sade, en şık, en olması gereken, en cool vb.</h2>
+
+<h3 style="color: black;font-size: 15pt;text-align: center;">ilk önce en sadeden başlayalım. aslında sadece sade değil hem sade hem şık da diyebiliriz çünkü sade olan şeyler her zaman şıklığı beraberinde getirir.</h3>
