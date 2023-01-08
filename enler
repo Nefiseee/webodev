@@ -102,3 +102,88 @@
         <h2 style="color:black;font-size: 30pt;text-align: center;margin-top: 50px;margin-bottom: 30px;"> bu sayfada enleri inceleyelim. en sade, en şık, en olması gereken, en cool vb.</h2>
 
 <h3 style="color: black;font-size: 15pt;text-align: center;">ilk önce en sadeden başlayalım. aslında sadece sade değil hem sade hem şık da diyebiliriz çünkü sade olan şeyler her zaman şıklığı beraberinde getirir.</h3>
+
+
+<!-- enler için fotoğraf albümü ekledim  -->
+<div class="polaroid">
+    <img src="sade.jpg" alt="Yeşil" style="width: 100%;">
+    <div class="container">
+    <p >ilk sırada elbette gömlekler var. Sade bir gömlekle hem yaz hem kış sadelği ve şıklığı yakayabiliriz. </p>
+    </div>
+  </div>
+  
+  <div class="polaroid">
+    <img src="kzak.jpg" alt="mavi" style="width:100%">
+    <div class="container">
+    <p>kazaklar biraz tehlikelidir. iyi kombinlemezseniz bütün görünümünüz bozulur ancak iyi kombinlenirse size olgun ve sade bir görünüm veerir.</p>
+    </div>
+  </div>
+  
+  <div class="polaroid">
+      <img src="ttişört.jpg" alt="kırmızı" style="width:100%">
+      <div class="container">
+      <p>Oversize tshirtler... yaz kış imdada yetişmekte üstlerine yoktur. bir beyaz bir siyah bizi ömür boyu kurtarır. </p>
+      </div>
+    </div>
+  
+  <h3 style="font-size: 25pt;text-align: center;color: white;"> biraz da şıklık.</h3>
+  
+    <div class="polaroid">
+      <img src="blazer.jpg" alt="siyah" style="width:100%">
+      <div class="container">
+      <p>blazer şıklığı... ama spor şık o kadar güzel ki...</p>
+      </div>
+    </div>
+  
+  
+    <div class="polaroid">
+      <img src="kaban.jpg" alt="Norther Lights" style="width:100%">
+      <div class="container">
+      <p>Tarzı klasik olanların vazgeçilmez kış şıklığı, kabanlar. </p>
+      </div>
+    </div>
+  
+  
+    <div class="polaroid">
+      <img src="derrr.jpg" alt="Norther Lights" style="width:100%">
+      <div class="container">
+      <p>Nasıl kombinlenirse onun en iyisi olan deriler.hem şık hem spor hemde cool.</p>
+      </div>
+    </div>
+  
+  
+  <h3 style="color: white;font-size: 25pt;text-align: center;">en coollara gelelim bakalım.</h3>
+  
+  
+  <div class="polaroid">
+    <img src="pembe.jpg.jpg" alt="Norther Lights" style="width:100%">
+    <div class="container">
+    <p>Ton sür ton konbinler her zaman insanı daha cool gösterir. Şık giyinmeyi sevenlerin en sevdikleri görünüm bence budur.</p>
+    </div>
+  </div>
+  
+  
+  <div class="polaroid">
+    <img src="koyu-yesil.jpg" alt="Norther Lights" style="width:100%">
+    <div class="container">
+    <p>Bir diğer örneği...</p>
+    </div>
+  </div>
+  
+  <div class="polaroid">
+    <img src="yesill.jpg" alt="Norther Lights" style="width:100%">
+    <div class="container">
+    <p> Bu kombin benim yeşil sevgimle birleşince bambaşka bir şey oluyor...</p>
+    </div>
+  </div>
+  
+  <div class="polaroid">
+    <img src="kot.jpg" alt="Norther Lights" style="width:100%">
+    <div class="container">
+    <p>Eğer ne giyeceğinizi bulamıyorsanız aynı renk kombini yapın, kaç kez deneyip yaptınız kombinden kat kat daha güzel olur.
+    </p>
+    </div>
+  </div>
+  
+  </body>
+  </html>
