@@ -184,6 +184,17 @@
     </p>
     </div>
   </div>
+
+  <!-- enler sayfamı bitiridm  -->
+
+  <footer class="bg-danger p-5 text-white text-center">
+
+    <i class="fa-brands fa-instagram"></i>
+    <i class="fa-regular fa-envelope"></i>
+    <i class="fa-brands fa-pinterest"></i>
+
+  </footer>
+
   
   </body>
   </html>
